@@ -1,0 +1,7 @@
+Força
+
+O experimento tem como objetivo demonstrar o funcionamento de um sistema de forças, utilizando o exemplo de uma caixa(peso) sendo empurrado sobre um plano inclinado.Ele demonstra as forças que atuam sobre o sistema e os efeitos que há sobre o objeto quando se aplica uma forma de maior ou menos intensidade.
+
+Instruções
+
+O experimento consiste em um plano inclinado com um angulo de 30º, que tem um gato empurrando uma caixa na base. O objetivo é fazer que o gato consiga empurrar a caixa rampa a cima. Todos os dados como: Gravidade,Massa da caixa, Força Peso,P(x),P(y), Angulo, Velocidade e aceleração.São mostrados na tela do experimento, juntamento com a força que o gatinho está fazendo sobre a caixa. Está ultima podendo ser variada arrastando a bolinha na barra que indica a força aplicada.

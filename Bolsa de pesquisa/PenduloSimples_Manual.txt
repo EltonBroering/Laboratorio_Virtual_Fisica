@@ -1,0 +1,8 @@
+Pendulo Simples
+
+O experimento tem como objetivo demonstrar o funcionamento de um sistema de um pêndulo simples, simulando o que ocorre em um laboratorio físico. É composto por um pêndulo de um relogio cuco.
+
+Instruções
+
+Para uso do experimento o aluno deverá agir de forma semelhante ao que ele teria que fazer no laboratorio real de fisica. Ou seja ele tera que segurar o peso do pundulo (clicando nele) e levar até a altura que ele achar necessário, ela será mostrado com relação a amplitude que o pendulo tem.
+o estudante poderá alterar o massa do pesinho, e o comprimento do fio. Assim podendo avaliar quais são os fatores que influenciam no movimento do pendulo.

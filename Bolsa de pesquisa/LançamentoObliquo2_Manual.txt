@@ -1,0 +1,12 @@
+Lançamento Obliquo
+
+O experimento tem como objetivo demonstrar o funcionamento de um sistema de lançamento de um corpo, utilizando o exemplo de uma catapulta, e demonstrar a ação da gravidade sobre o sistema como um todo.
+
+Instruções
+
+O experimento funciona como um jogo. O objetivo é acertar o castelo com o objeto lançado pela catapulta. O castelo tem a posição em relação ao eixo X variável; Ela será sempre um número sorteado.
+O aluno pode alterar o ângulo do lançamento e a velocidade com que o objeto é lançado. O sistema é considerado um sistema perfeito, com a velocidade constante.
+Para melhor vizualizar os efeitos da gravidade, o aluno também poderá trocar o local onde sera feito o lançamento - Outros planetas, por exemplo - Tendo assim uma gravidade diferente para cada lançamento.
+Para auxiliar o aluno, o experimento conta com uma trena que é utilizada para informar a distancia do castelo à catapulta em relação ao eixo X e ao eixo Y.
+
+O jogo acaba depois que o aluno acertar o castelo 10 vezes.

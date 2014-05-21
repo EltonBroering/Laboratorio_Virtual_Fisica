@@ -1,0 +1,9 @@
+Plano Inclinado
+
+O experimento tem como objetivo demonstrar o funcionamento de um sistema de um plano inclinado com velocidade variavel, ou seja, o sistema possui aceleração. Ele demonstra as diferenças sobre o sistema com a variação do ângulo de inclinação do plano inclinado e é composto por um carrinho e um plano.
+Este sistema é mais semelhante ao que ocorre experimentalmente em laboratorios reais.
+Ele é feito de forma semelhante ao experimento sem aceleração, para tornar as diferenças causadas pela aceleração mais perceptíveis no sistema.
+
+Instruções
+
+Para utilizar o experimento o estudante só deverá indicar a inlinação do plano no início quando lhe for solicitado, e o experimento desenhará o plano inclinado correspondente e colocará o objeto na posição de início, e mostrará a velocidade, a aceleração e as componentes Peso(x) e Peso(y), além do tempo e comprimento da rampa.

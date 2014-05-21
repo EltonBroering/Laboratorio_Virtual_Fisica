@@ -1,0 +1,8 @@
+Força
+
+O experimento tem como objetivo demonstrar o funcionamento de um sistema fisico de torque, usando o exemplo de uma gangorra na qual são penduradas 3 bolas(pesos) de massa variavel, de 1 a 3 kg, e são posicionados a uma distancia aleatoria do centro da gangorra.O experimento demostra como funciona torque, equação de força com relaçãoa distancia utilizando uma bola com massa fixa de 5kg e que tem a distancia para o centro da gangorra definida pelo estudante.
+
+Instruções
+
+O estudo do experimento consiste em arrastar a bola de basquete com massa fixa ao longe da gangorra de forma a equilibrar as forças, igualar o valor do torque a 0.É em razão disso perceber as diferentes reações que o deslocamento da bolinha sobre a gangorra exercem sobre o sistema.
+Para arrastar a bola é só clicar com o mouse e deslocalo para o lado de acordo com a posição pretendida. Além de que é possivel escolher a distancia a qual se deixa a bola do centro da gangorra apertando a tecla "espaço" e entrando com o valor que se deseja que a bola fique do centro.
